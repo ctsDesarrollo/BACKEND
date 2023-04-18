@@ -1,0 +1,4 @@
+@apiArea=http://localhost:4000/activos
+
+##Consulta area todos
+GET {{apiArea}}

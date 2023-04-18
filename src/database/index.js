@@ -1,0 +1,6 @@
+export * from './conexion'
+export {inventarioQ} from '../services/inventarioQ'
+export  {areaServices} from '../services/areasServices'
+export {puestoServices} from '../services/puestoServices'
+export {empleadoServices}from '../services/empleadoServices'
+export {activosServices} from '../services/activoServices'
